@@ -2,8 +2,9 @@ body { background-color: lightskyblue;
       font-family: Arial, Helvetica, sans-serif;
      }
 h1 {
-  color: darkviolet;
+  color: darkred;
   text-align: center;
+      border-right: 3px solid black 
 }
 
 .assign {
