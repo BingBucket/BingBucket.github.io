@@ -5,6 +5,9 @@ a {
       text-decoration: none;
       color: midnightblue;
 }
+a:hover {
+color: pink;
+}
 h1 {
   color: white;
   text-align: center;
@@ -17,6 +20,7 @@ h1 {
   margin: 10px;
   padding: 10px;
   display: flex;
+      border-radius: 20px;
 }
 
 .assign img {
