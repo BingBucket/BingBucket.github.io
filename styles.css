@@ -3,11 +3,13 @@ body { background-color: lightskyblue;
      }
 a {
       text-decoration: none;
-      color: midnightblue;
+      color: black;
 }
+
 a:hover {
 color: pink;
 }
+
 h1 {
   color: white;
   text-align: center;
